@@ -1,0 +1,100 @@
+{
+  "shortDescription": "Test your knowledge about Donald Trump.",
+  "questions": [
+    {
+      "question": "What is Trump’s birthplace?",
+      "answers": ["NYC", "Chicago", "LA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was Trump born?",
+      "answers": ["1946", "1950", "1960"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which company did Trump lead?",
+      "answers": ["Trump Org", "Trump Inc", "Trump Co"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which TV show did Trump host?",
+      "answers": ["Apprentice", "Survivor", "Big Brother"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which political party is Trump part of?",
+      "answers": ["Republican", "Democrat", "Independent"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Trump’s first name?",
+      "answers": ["Donald", "Ronald", "George"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who was Trump’s running mate in 2016?",
+      "answers": ["Pence", "Ryan", "Biden"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "In which year did Trump become president?",
+      "answers": ["2017", "2016", "2018"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Trump’s family business started in which industry?",
+      "answers": ["Real Estate", "Oil", "Tech"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which social media platform did Trump famously use?",
+      "answers": ["Twitter", "Instagram", "Facebook"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Trump’s wife’s name?",
+      "answers": ["Melania", "Ivanka", "Chelsea"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Trump was known for his hair being?",
+      "answers": ["Unique", "Short", "Grey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which country did Trump meet Kim Jong-un?",
+      "answers": ["Singapore", "South Korea", "China"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Trump tower is famous?",
+      "answers": ["New York", "Chicago", "LA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What was Trump's first TV appearance?",
+      "answers": ["The Mike Douglas Show", "SNL", "Oprah"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Trump family’s religion?",
+      "answers": ["Christian", "Jewish", "Muslim"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Trump is known for his strong views on?",
+      "answers": ["Immigration", "Economy", "Climate Change"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What type of business was Trump’s first job?",
+      "answers": ["Real Estate", "Banking", "Construction"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which city did Trump run for president in 2016?",
+      "answers": ["New York", "Washington", "Miami"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
